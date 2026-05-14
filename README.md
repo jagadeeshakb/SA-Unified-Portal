@@ -1,11 +1,13 @@
 # Accenture Solution Governance Hub v2.0
 
 A full-featured, out-of-the-box deal governance dashboard with AI agents and integration-ready connectors for DSP, myISP and ADM Estimator.
+------------
+
 What this is:
 This is an end-to-end deal governance and delivery automation platform for Accenture solution teams. The problem it solves is that today, when a new client deal comes in, the process of classifying it, getting approvals, estimating cost, sourcing people, planning delivery and tracking artefacts all happens manually — across different tools (DSP, myISP, ADM), different teams, and different email threads. Things fall through the gaps. Approvals are missed. Resources aren't mobilised in time. No one has a single view of where the deal actually stands.
 This dashboard puts all of that in one place and automates the coordination between them.
 
-----------------
+----------------------
 What can be achieved:
 In the near term, for a solution team running five to ten deals at once, this eliminates the majority of administrative coordination. Deal owners no longer need to know which approvers are required for which deal size — the system tells them. Resource managers no longer need to manually build FTE plans in spreadsheets — the ADM estimator feeds it directly into myISP format. Delivery managers get a live view of which artefacts are at risk without chasing owners for updates.
 In the medium term, once the live API connections to DSP, myISP and ADM are activated (which requires Accenture IT to provide the endpoint URLs and Bearer tokens — the code hooks are already in place), the dashboard becomes the single source of truth for a deal from intake to go-live sign-off. Every approval, every cost estimate, every resource request and every artefact status is visible in one view, accessible by any team member in any role without needing access to four separate enterprise systems.
